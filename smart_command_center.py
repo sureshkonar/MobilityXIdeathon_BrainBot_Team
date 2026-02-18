@@ -222,7 +222,7 @@ with right:
 
     # -------- CAMERA FEED --------
     st.subheader("🎥 Live Camera Feed (Demo)")
-    st.video("https://www.youtube.com/watch?v=LZNZnxCOq0I&pp=ygUaY2FtZXJhIGZlZWQgZm9yIGVhcnRocXVha2U%3D")  # demo CCTV stream
+    st.video("https://www.youtube.com/watch?v=1NGF0Us2NhA")  # demo CCTV stream
 
     st.divider()
 
