@@ -15,7 +15,7 @@ from shared_state import get_latest_event, init_state
 st.set_page_config(page_title="Aptiv Smart Emergency Command Center", layout="wide")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-IMAGE_PATH = os.path.join(BASE_DIR, "assets", "building_layout.png")
+IMAGE_PATH = os.path.join(BASE_DIR, "assets", "Aptiv - FIRE EVACUATION MAP - 02.jpg")
 BLINKIT_LOGO = "https://upload.wikimedia.org/wikipedia/commons/2/2b/Blinkit_logo.png"
 
 # ---------------- INIT STATE ----------------
